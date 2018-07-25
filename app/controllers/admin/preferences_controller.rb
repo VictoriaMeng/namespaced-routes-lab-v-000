@@ -7,4 +7,10 @@ class Admin::PreferencesController < ApplicationController
 
   def create
   end
+
+  private
+
+  def find
+
+  end
 end
