@@ -2,7 +2,7 @@ class Admin::PreferencesController < ApplicationController
   def index
   end
 
-  def new
+  def ne
   end
 
   def create
