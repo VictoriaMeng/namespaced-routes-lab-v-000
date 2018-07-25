@@ -10,7 +10,4 @@ class Admin::PreferencesController < ApplicationController
 
   private
 
-  def find
-
-  end
 end
